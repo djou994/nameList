@@ -33,7 +33,7 @@ When it’s finish just send an email with the repository URL</p>
 <h3>Exemplos POST</h3>
 <ul>
     <li><strong>/names</strong></li>
-    [ { "name": "Jacob" }, { "name": "Michael" }, { "name": "Michael" } ]
+    [ { "name": "Jacob" }, { "name": "Michael" }, { "name": "Andrew" } ]
 
 <li><strong>/names/list</strong></li>
     "João, Marcos, Antonio, Andrew"
